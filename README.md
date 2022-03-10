@@ -30,4 +30,4 @@ In analyzing the customers who currently have/do not have internet connection, I
 2. There is some correlation in the data as problem statement sates: _"one account can have multiple subscribers"_. I did not really look into this, but almost 1.4 accounts have multiple subscription and I am not sure how it will skew analysis
 3. The property **"Price Plan"** is particularly interesting because it is textual content that cannot be vectorized with simple tokenization techniques.
 
-Further analysis would be given based on the analysis graphs in [`jupyter notebooks older`](/notebooks).
+Further analysis would be given based on the analysis graphs in [`jupyter notebooks folder`](/notebooks).
